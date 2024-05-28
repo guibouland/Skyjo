@@ -6,4 +6,5 @@ Projet réalisé dans le cadre du Master 1 Mathématiques, Statistiques et Scien
 ## Auteurs
 
 BOULAND Guillaume: [Gihub](https://github.com/guibouland)
+
 DIAS Pierre: [Github](https://github.com/pierre-ed-ds)
